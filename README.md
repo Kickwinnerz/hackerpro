@@ -95,7 +95,7 @@
 
 ## Installation in Linux :
 
-Open Terminal and Type : ```git clone https://github.com/jaykali/hackerpro.git```
+Open Terminal and Type : ```git clone https://github.com/Kickwinnerz/hackerpro.git```
 
 After Downloading The File Type : ```sudo cd hackerpro && sudo python2 hackerpro.py```
 
@@ -108,7 +108,7 @@ Video Tutorial : Coming Soon
 
 Then Open Termux and Type : ```apt update && apt upgrade && apt install git && apt install python2```
 
-After That Open Termux and Type : ```git clone https://github.com/jaykali/hackerpro.git```
+After That Open Termux and Type : ```git clone https://github.com/Kickwinnerz/hackerpro.git```
 
 Then Type : ```cd hackerpro && python2 hackerpro.py```
 
@@ -116,7 +116,7 @@ Video Tutorial : Coming Soon
 
 ## License :
 
-[MIT Licence](https://github.com/jaykali/hackerpro/blob/master/LICENSE)
+[MIT Licence](https://github.com/Kickwinnerz/hackerpro.git)
 
 Thats It... If You Like This Repo. Please Share This With Your Friends..
 
